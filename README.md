@@ -1,9 +1,7 @@
 ### Oi, eu sou o Gabriel! 👋
 
 - 📚 Engenharia de Computação - UNIFEI
-- 🌱 Estudando JavaScript
 - 💻 Linkedin: gabriel-sr
-- 😄 Pronomes: ele/dele
 
  <div>
   <a href="https://github.com/RomualdoDev">
