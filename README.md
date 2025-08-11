@@ -1,6 +1,7 @@
 ### Oi, eu sou o Gabriel! 👋
 
-- 📚 Engenharia de Computação - UNIFEI
+- 💻 Desenvolvedor Backend
+- 📚 Engenheiro de Computação
 - 💻 Linkedin: gabriel-sr
 
  <div>
